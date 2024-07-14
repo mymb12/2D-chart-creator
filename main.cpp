@@ -1,4 +1,4 @@
-#include "include/SDL2/SDL.h"
+#include <SDL.h>
 #include <cmath>
 #include <stdio.h>
 
